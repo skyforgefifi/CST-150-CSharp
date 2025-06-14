@@ -1,0 +1,16 @@
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net8.0-windows\CST-150 Activity 1.exe
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net8.0-windows\CST-150 Activity 1.deps.json
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net8.0-windows\CST-150 Activity 1.runtimeconfig.json
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net8.0-windows\CST-150 Activity 1.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net8.0-windows\CST-150 Activity 1.pdb
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST_150_Activity_1.Form1.resources
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.csproj.GenerateResource.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.AssemblyInfoInputs.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.AssemblyInfo.cs
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\refint\CST-150 Activity 1.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.pdb
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\CST-150 Activity 1.genruntimeconfig.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net8.0-windows\ref\CST-150 Activity 1.dll

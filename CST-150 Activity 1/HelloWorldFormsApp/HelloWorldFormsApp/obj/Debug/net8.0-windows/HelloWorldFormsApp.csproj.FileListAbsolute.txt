@@ -1,0 +1,32 @@
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.exe
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.deps.json
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.runtimeconfig.json
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.pdb
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.Form1.resources
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.csproj.GenerateResource.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.AssemblyInfoInputs.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.AssemblyInfo.cs
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\refint\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.pdb
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.genruntimeconfig.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\ref\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.exe
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.deps.json
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.runtimeconfig.json
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\bin\Debug\net8.0-windows\HelloWorldFormsApp.pdb
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.Form1.resources
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.csproj.GenerateResource.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.AssemblyInfoInputs.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.AssemblyInfo.cs
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\refint\HelloWorldFormsApp.dll
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.pdb
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\HelloWorldFormsApp.genruntimeconfig.cache
+C:\Users\skyfo\OneDrive\Desktop\Patrick School\CST-150\CST-150 Activity 1\HelloWorldFormsApp\HelloWorldFormsApp\obj\Debug\net8.0-windows\ref\HelloWorldFormsApp.dll
